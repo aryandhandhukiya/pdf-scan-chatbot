@@ -14,7 +14,7 @@ py -m venv .venv
 For activating venv:
 
 ``` bash
-.venv/Scripts/activate/
+.venv\Scripts\activate
 ```
 then install python dependency:
 
